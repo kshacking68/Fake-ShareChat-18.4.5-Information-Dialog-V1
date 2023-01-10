@@ -40,12 +40,12 @@
   
   "isCancelable": "true",
   
-  "Cancel_Button_Text_Color": "#FFF500F5",
+  "Cancel_Button_Text_Color": "#FF009ACD",
   
   
   
   
-  "More_Button_Text_Color": "#FFF50000",
+  "More_Button_Text_Color": "#FF003FFF",
   
   "More_Visibility": "VISIBLE",
   
