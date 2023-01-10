@@ -1,17 +1,21 @@
 {
-
+  "Dialog_Title": "📢ÄŅŅÖŮŅĊËМËŅȚ📢",
   "Title_Color": "#FF003DF5",
-  "Cancel_Button_Text_Color": "#FF007BF5",
-  "Dialog_Background_Color": "#FFFFFFFF",
   "Dialog_Message": "🔥🔥𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ🔥🔥
 
 🔇𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ 𝐋ᴀᴛᴇ𝐬ᴛ 𝐀ᴘᴘ🔇
              
 𝐋ᴀᴛᴇ𝐬ᴛ  𝐕ᴇʀ𝐬ɪᴏɴ  𝐂ᴏᴍɪɴɢ  𝐒ᴏᴏɴ
 
-🎉🎉𝐆ᴇᴛ 𝐑ᴇᴀᴅʏ 𝐓ᴏ 𝐃ᴏᴡɴʟᴏᴀᴅ🎉🎉",
+🎉🎉𝐆ᴇᴛ 𝐑ᴇᴀᴅʏ 𝐓ᴏ 𝐃ᴏᴡɴʟᴏᴀᴅ🎉🎉", 
+
+
+
+  "Cancel_Button_Text_Color": "#FF007BF5",
+  "Dialog_Background_Color": "#FFFFFFFF",
+  
   "Dialog_Stroke_Color": "#FF00F500",
-  "Dialog_Title": "📢ÄŅŅÖŮŅĊËМËŅȚ📢",
+  
   "Download_Link": "https://t.me/Modding_Tutorials/532?single",
   "Message_Color": "#FF000000",
   "More_Button_Text_Color": "#FFF50000",
