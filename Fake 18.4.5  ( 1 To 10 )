@@ -13,7 +13,7 @@
   "Download_Link": "https://t.me/Modding_Tutorials/532?single",
   "Message_Color": "#FF000000",
   "More_Button_Text_Color": "#FFF50000",
-  "More_Visibility": "INVISIBLE",
+  "More_Visibility": "VISIBLE",
   "New_Version": "1.2",
   "Okay_Button_Text": "Download",
   "Okay_Button_Text_Color": "#FFF50000",
