@@ -1,4 +1,6 @@
 {
+
+  "Title_Color": "#FF003DF5",
   "Cancel_Button_Text_Color": "#FF007BF5",
   "Dialog_Background_Color": "#FFFFFFFF",
   "Dialog_Message": "🔥🔥𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ🔥🔥
@@ -22,9 +24,6 @@
 
 
   "Show_Time": "5",
-
-
-  "Title_Color": "#FF003DF5",
 
 
   "Update_Type": "true",
