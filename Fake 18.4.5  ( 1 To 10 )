@@ -1,29 +1,64 @@
 {
-  "Cancel_Button_Text_Color": "#FF4386F5",
-  "Dialog_Background_Color": "#FFFFFFFF",
+  "Dialog_Title": "📢ÄŅŅÖŮŅĊËМËŅȚ📢",
+  
+  "Title_Color": "#FF003DF5",
+  
+  "Message_Color": "#FF000000",
+  
   "Dialog_Message": "🔥🔥𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ🔥🔥
 
-🔇𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ 𝐋ᴀᴛᴇ𝐬ᴛ 𝐀ᴘᴘ🔇
-            
 
- 𝐋ᴀᴛᴇ𝐬ᴛ  𝐕ᴇʀ𝐬ɪᴏɴ  𝐂ᴏᴍɪɴɢ  𝐒ᴏᴏɴ
+🔇𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ 𝐋ᴀᴛᴇ𝐬ᴛ 𝐀ᴘᴘ🔇
+             
+𝐋ᴀᴛᴇ𝐬ᴛ  𝐕ᴇʀ𝐬ɪᴏɴ  𝐂ᴏᴍɪɴɢ  𝐒ᴏᴏɴ
 
 🎉🎉𝐆ᴇᴛ 𝐑ᴇᴀᴅʏ 𝐓ᴏ 𝐃ᴏᴡɴʟᴏᴀᴅ🎉🎉",
-  "Dialog_Stroke_Color": "#FF00F500",
-  "Dialog_Title": "📢ÄŅŅÖŮŅĊËМËŅȚ📢",
-  "Download_Link": "https://t.me/silent_killer_mods/370",
-  "Message_Color": "#FF000000",
-  "More_Button_Text_Color": "#FFF5003D",
-  "More_Visibility": "VISIBLE",
-  "New_Version": "1.2",
+
+
+
+  "Dialog_Background_Color": "#FFFFFFFF",
+  
+  "Dialog_Stroke_Color": "#FF00F57B",
+  
+  
+  
+  "Download_Link": "https://t.me/APK_Modding/10440",
+  
   "Okay_Button_Text": "Download",
-  "Okay_Button_Text_Color": "#FFF5003D",
-  "Preference": "1673374255374",
-  "Share_Mod_Text": "KS Hacking Telegram Channel",
-  "Show_Time": "2",
-  "Title_Color": "#FF0000F5",
+  
+  "Okay_Button_Text_Color": "#FFF50000",
+  
+  
+  
   "Update_Type": "true",
+  
+  "New_Version": "1.0",
+  
+  "Show_Time": "3",
+  
+  
+  
+  "isCancelable": "false"
+  
+  "Cancel_Button_Text_Color": "#FFF500F5",
+  
+  
+  
+  
+  "More_Button_Text_Color": "#FFF50000",
+  
+  "More_Visibility": "VISIBLE",
+  
+  "Website_Link": "https://t.me/Modding_Tutorials/532?single",
+  
+  "Share_Mod_Text": "KS Hacking Telegram Channel",
+  
+  
+  
+ 
+  
   "User_Name": "oUSKBSAKY11phQ8ep8kKe3Ky0kPSvtDLS2jv4iltMhOOmQY9f6DnXtwyS/APktMqxCyH8j+lOJK8+VSmscbn0A==",
-  "Website_Link": "https://pmny.in/LI1llDBnhANj",
-  "isCancelable": "true"
+  
+  "Preference": "1673350164505"
+
 }
