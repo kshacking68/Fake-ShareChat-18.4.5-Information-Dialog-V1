@@ -1,22 +1,31 @@
 {
-  "Cancel_Button_Background": "#FFDFEAF5",
-  "Cancel_Button_Text": "Cancel Now",
-  "Cancel_Button_Text_Color": "#FFF5003D",
-  "Cancel_Visibility": "VISIBLE",
-  "Dialog_Message": "Enna pantra di chella kutty is the ttest mmessage",
-  "Dialog_Submessage": "What's New !",
-  "Dialog_Subtitle": "Subtitles",
+  "Cancel_Button_Text_Color": "#FFF500F5",
+  "Dialog_Background_Color": "#FFFFFFFF",
+  "Dialog_Message": "ㅤ🔥🔥𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ🔥🔥
+<br>
+<br>
+
+    🔇𝐌ᴜᴛᴇ 𝐒ʜᴀʀᴇ𝐂ʜᴀᴛ 𝐋ᴀᴛᴇ𝐬ᴛ 𝐀ᴘᴘ🔇
+<br><br>
+             
+      𝐋ᴀᴛᴇ𝐬ᴛ  𝐕ᴇʀ𝐬ɪᴏɴ  𝐂ᴏᴍɪɴɢ  𝐒ᴏᴏɴ<br><br>
+
+🎉🎉𝐆ᴇᴛ 𝐑ᴇᴀᴅʏ 𝐓ᴏ 𝐃ᴏᴡɴʟᴏᴀᴅ🎉🎉",
+  "Dialog_Stroke_Color": "#FF00F57B",
   "Dialog_Title": "📢ÄŅŅÖŮŅĊËМËŅȚ📢",
-  "Download_Button_Background": "#FF43B2F5",
-  "Download_Button_Text": "Download",
-  "Download_Button_Text_Color": "#FFF5003D",
-  "Download_Link": "https://t.me/Modding_Tutorials/532?single",
-  "Icon_Link": "https://i.postimg.cc/gJ7f9ShC/KS-Hacking-Telegram.png",
+  "Download_Link": "https://t.me/APK_Modding/10440",
   "Message_Color": "#FF000000",
-  "New_Version": "5",
-  "Preference": "1673340816934",
+  "More_Button_Text_Color": "#FFF50000",
+  "More_Visibility": "VISIBLE",
+  "New_Version": "1.2",
+  "Okay_Button_Text": "Download",
+  "Okay_Button_Text_Color": "#FFF50000",
+  "Preference": "1673350077292",
+  "Share_Mod_Text": "KS Hacking Telegram Channel",
   "Show_Time": "2",
-  "Title_Color": "#FF0000F5",
+  "Title_Color": "#FF003DF5",
   "Update_Type": "true",
-  "User_Name": "oUSKBSAKY11phQ8ep8kKe3Ky0kPSvtDLS2jv4iltMhOOmQY9f6DnXtwyS/APktMqxCyH8j+lOJK8+VSmscbn0A=="
+  "User_Name": "oUSKBSAKY11phQ8ep8kKe3Ky0kPSvtDLS2jv4iltMhOOmQY9f6DnXtwyS/APktMqxCyH8j+lOJK8+VSmscbn0A==",
+  "Website_Link": "https://t.me/Modding_Tutorials/532?single",
+  "isCancelable": "true"
 }
