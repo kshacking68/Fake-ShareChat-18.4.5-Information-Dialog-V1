@@ -32,13 +32,13 @@
   
   "Update_Type": "false",
   
-  "New_Version": "1.0",
+  "New_Version": "1.5",
   
-  "Show_Time":"0",
+  "Show_Time": "5",
   
   
   
-  "isCancelable": "true",
+  "isCancelable": "false",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
@@ -57,5 +57,8 @@
   
  
   
-  "User_Name": "oUSKBSAKY11phQ8ep8kKe3Ky0kPSvtDLS2jv4iltMhOOmQY9f6DnXtwyS/APktMqxCyH8j+lOJK8+VSmscbn0A=="
+  "User_Name": "oUSKBSAKY11phQ8ep8kKe3Ky0kPSvtDLS2jv4iltMhOOmQY9f6DnXtwyS/APktMqxCyH8j+lOJK8+VSmscbn0A==",
+  
+  "Preference": "1673350164505"
+
 }
