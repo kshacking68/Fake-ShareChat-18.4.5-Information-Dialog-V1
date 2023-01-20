@@ -38,11 +38,11 @@ If You Get This Message  Touch 👉 🇮🇳 Below
   
   "New_Version": "18.4.5",
   
-  "Show_Time": "1",
+  "Show_Time": "0",
   
   
   
-  "isCancelable": "true",
+  "isCancelable": "false",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
